@@ -1,5 +1,5 @@
 # 简介
-系统基于Windows操作系统平台，采用Microsoft Visual Studio集成开发环境，采用EasyX库函数/终端输出 作为UI设计工具。
+大一C语言大作业。系统基于Windows操作系统平台，采用Microsoft Visual Studio集成开发环境，采用EasyX库函数/终端输出 作为UI设计工具。
 
 # 实现功能
 
